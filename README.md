@@ -32,7 +32,7 @@ This is a fully functional Sudoku game where the player fills in the missing num
 ## 🚀 How to Run
 
 1. Clone the repository
-   git clone https://github.com/your_username/sudoko.git
+   git clone https://github.com/hasham-gif/sudoko-game-.git
 
 2. Open in IntelliJ IDEA
 
